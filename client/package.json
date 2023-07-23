@@ -1,4 +1,5 @@
 {
+	"name": "azunet-client",
   "private": true,
   "scripts": {
     "dev": "vite dev",

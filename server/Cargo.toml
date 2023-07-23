@@ -1,0 +1,9 @@
+[package]
+name = "azunet-server"
+version = "0.1.0"
+authors = ["Neal Wang <nealwang.sh@protonmail.com>"]
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+tokio = { version = "1", features = ["full"] }
