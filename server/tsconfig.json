@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"esModuleInterop": true,
+		"module": "commonjs",
+		"outDir": "dist",
+		"removeComments": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"target": "es6",
+		"types": ["bun-types"]
+	},
+	"include": ["src/**/*.ts"],
+	"exclude": ["node_modules"]
+}
