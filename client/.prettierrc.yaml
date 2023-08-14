@@ -10,5 +10,3 @@ overrides:
     files: "*.svelte"
     options:
       parser: svelte
-importOrderSeparation: false
-importOrderSortSpecifiers: true
